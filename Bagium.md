@@ -1,4 +1,4 @@
-#Bagium
+# Bagium
 
 #Landing Page
 ![Landing Page](https://github.com/swapno-github/FigmaProjects/assets/108092606/18dc5db9-2d8f-4429-a56a-4d0a7f58c5f0)
