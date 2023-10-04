@@ -1,5 +1,7 @@
 # Bagium
 
+Link-https://www.figma.com/file/gHqgJkwnd8bOyK45NNLmX7/Portfolio?type=design&node-id=108%3A2&mode=design&t=cOf9hmftnzuH51va-1
+
 #Landing Page
 ![Landing Page](https://github.com/swapno-github/FigmaProjects/assets/108092606/18dc5db9-2d8f-4429-a56a-4d0a7f58c5f0)
 
