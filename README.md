@@ -1,4 +1,4 @@
-# FigmaProjects
+# AgriSHop
 
 #Landing Page
 ![Landing Page](https://github.com/swapno-github/FigmaProjects/assets/108092606/0e655798-36a2-416e-9b32-9134143c5f9a)
