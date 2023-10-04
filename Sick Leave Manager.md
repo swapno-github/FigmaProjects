@@ -1,5 +1,7 @@
 # Sick Leave Manager
 
+Link- https://www.figma.com/file/gHqgJkwnd8bOyK45NNLmX7/Portfolio?type=design&node-id=1%3A6904&mode=design&t=cOf9hmftnzuH51va-1
+
 #Dashboard
 ![Dashboard](https://github.com/swapno-github/FigmaProjects/assets/108092606/3b1778f0-7739-49d0-ad8c-e44f9de32ac8)
 
